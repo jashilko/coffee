@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Menu row="2">
+  <Item Name ="Капучино" Size ="200"  Price ="90"/>
+  <Item Name ="Капучино" Size ="400"  Price ="120"/>
+  <Item Name ="Латте" Size ="200"  Price ="100"/>
+  <Item Name ="Капучино" Size ="200"  Price ="110"/>
+</Menu>
+  

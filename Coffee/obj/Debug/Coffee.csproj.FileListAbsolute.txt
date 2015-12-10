@@ -1,0 +1,15 @@
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\bin\Debug\Coffee.exe.config
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\bin\Debug\Coffee.exe
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\bin\Debug\Coffee.pdb
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\obj\Debug\Coffee.csprojResolveAssemblyReference.cache
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\obj\Debug\Coffee.Properties.Resources.resources
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\obj\Debug\Coffee.csproj.GenerateResource.Cache
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\obj\Debug\Coffee.exe
+c:\users\shilyaev\documents\visual studio 2012\Projects\Coffee\Coffee\obj\Debug\Coffee.pdb
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\bin\Debug\cof2015.mdf
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\bin\Debug\cof2015_log.ldf
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\bin\Debug\EntityFramework.dll
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\bin\Debug\EntityFramework.xml
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shilyaev\Documents\Visual Studio 2012\Projects\Coffee\Coffee\obj\Debug\Coffee.MainForm.resources
